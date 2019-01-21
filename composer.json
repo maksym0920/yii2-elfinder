@@ -1,5 +1,5 @@
 {
-    "name": "mihaildev/yii2-elfinder",
+    "name": "maksym0920/yii2-elfinder",
     "keywords": ["yii", "elfinder", "filemanager"],
     "description": "Yii2 ElFinder",
     "homepage": "https://github.com/maksym0920/yii2-elfinder",
@@ -8,8 +8,8 @@
     "minimum-stability":"stable",
     "authors": [
         {                       
-            "homepage": "https://github.com/maksym0920",
-            "role": "Developer"
+			"name": "Max",
+            "email": "maksym0920@gmail.com"
         }
     ],
     "autoload": {
