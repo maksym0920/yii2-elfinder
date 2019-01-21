@@ -1,5 +1,5 @@
 {
-    "name": "mihaildev/yii2-elfinder",
+    "name": "maksym0920/yii2-elfinder",
     "keywords": ["yii", "elfinder", "filemanager"],
     "description": "Yii2 ElFinder",
     "homepage": "https://github.com/maksym0920/yii2-elfinder",
@@ -7,9 +7,7 @@
     "license": "BSD-3-Clause",
     "minimum-stability":"stable",
     "authors": [
-        {
-            "name": "Mihail",
-            "email": "mihail.kucher@gmail.com",
+        {                       
             "homepage": "https://github.com/maksym0920",
             "role": "Developer"
         }
